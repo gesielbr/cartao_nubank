@@ -1,0 +1,4 @@
+#Tue Jul 07 10:17:53 BRT 2020
+base.0=C\:\\Users\\Gesiel e Vanessa\\Documents\\Gesiel\\Projetos\\Growdev\\cartao_nubank\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
